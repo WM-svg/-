@@ -1,7 +1,7 @@
 # XGBoost-CatBoost算法性能对比
 ## 项目简介
 
-本项目使用XGBoost和CatBoost对Kaggle的航空信息晚点数据集进行建模，以对比这两种算法在该数据集上性能的差异。
+本项目使用XGBoost和CatBoost对Kaggle的航空信息晚点数据集中的flights.csv进行建模，以对比这两种算法在该数据集上性能的差异。
 
 ## 复现步骤
 1. 本项目先对数据集进行了数据预处理、抽样、以及其他探索性分析。
